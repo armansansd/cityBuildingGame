@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1024m
+jeu_construction_couleur_02
+jeu_construction_couleur_02.jar,core.jar,video.jar
